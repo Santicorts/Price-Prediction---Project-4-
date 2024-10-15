@@ -7,7 +7,7 @@
 
 
 ## Overview of the analysis: 
- - The purpose of this project is to develope a deep learning model to help a explore real estate housing price prediction in Illinois, USA.
+ - The purpose of this project is to develope a deep learning model to help explore real estate housing price prediction in Illinois, USA based on selected features.
 
 ## Data Preprocessing
  - A CSV file containing the dataset of more than 100,000 real estate listings in the US broken by State and Zip Code
