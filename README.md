@@ -33,14 +33,6 @@
 
 ## Compiling, Training, and Evaluating the Model
 
-### Number of Neurons and Layers:
-  - 80 and 30 Neurons
-  - Hidden Layer 1: Relu
-  - Hidden Layer 2: Relu
-  - Output Layer: Sigmoid
-
-Several trials were conducted and the number of newrons were chosen to ensure that the model's performance is at optimum. 
-
 ### Model Performance
   - 78% Accuracy attained
   
