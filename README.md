@@ -28,9 +28,6 @@
  - house_size (house area/size/living space in square feet)
  - prev_sold_date (Previously sold date)
 
-#### Variables removed:
-
-
 ## Compiling, Training, and Evaluating the Model
 
 ### Model Performance
@@ -38,6 +35,9 @@
   
 ### Steps Taken to increase model performance
 
-
 ## Summary
-  
+
+
+## User Interface
+![Screenshot 2024-10-15 at 4 48 00 PM](https://github.com/user-attachments/assets/d66fdef2-6498-4d42-8cc1-af075f5e1b23)
+
