@@ -10,7 +10,7 @@
  - The purpose of this project is to develope a deep learning model to help explore real estate housing price prediction in Illinois, USA based on selected features.
 
 ## Data Preprocessing
- - A CSV file containing the dataset of more than 100,000 real estate listings in the US broken by State and Zip Code
+ - A CSV file containing the dataset of more than 100,000 real estate listings in the US broken by State and Zip Code was used. The data was retrieved from Kaggle.
 
 #### Target Variable
  - price (Housing price, it is either the current listing price or recently sold price if the house is sold recently)
