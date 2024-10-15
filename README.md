@@ -29,13 +29,16 @@
  - prev_sold_date (Previously sold date)
 
 ## Compiling, Training, and Evaluating the Model
+----- to be updated -----
 
 ### Model Performance
   - 77% Accuracy attained
   
 ### Steps Taken to increase model performance
+----- to be updated -----
 
 ## Summary
+----- to be updated -----
 
 
 ## User Interface
