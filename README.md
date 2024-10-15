@@ -34,7 +34,7 @@
 ## Compiling, Training, and Evaluating the Model
 
 ### Model Performance
-  - 78% Accuracy attained
+  - 77% Accuracy attained
   
 ### Steps Taken to increase model performance
 
