@@ -40,7 +40,7 @@
 - Hyperparameter tuning
 - Adding dropout layers to prevent overfitting
 - Experimenting with different architectures and optimization techniques
-- 
+  
 ## Summary
 Our model predicts housing prices in Illinois with an accuracy of 77%. Further improvements can be made by refining features, exploring different models, and continuing to optimize hyperparameters.
 
