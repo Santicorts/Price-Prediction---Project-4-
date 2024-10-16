@@ -27,6 +27,7 @@
  - zip_code (postal code of the area)
  - house_size (house area/size/living space in square feet)
  - prev_sold_date (Previously sold date)
+ - Preprocessing steps included handling missing values, categorical encoding, and scaling numerical features.
 
 ## Compiling, Training, and Evaluating the Model
  - Various states were considered and we decided on Illinois. Real estate listings and sold prices within the cities of Illinois were used in the training of the data.
@@ -36,11 +37,12 @@
   - 77% Accuracy attained
   
 ### Steps Taken to increase model performance
------ to be updated -----
-
+- Hyperparameter tuning
+- Adding dropout layers to prevent overfitting
+- Experimenting with different architectures and optimization techniques
+- 
 ## Summary
------ to be updated -----
-
+Our model predicts housing prices in Illinois with an accuracy of 77%. Further improvements can be made by refining features, exploring different models, and continuing to optimize hyperparameters.
 
 ## User Interface
 ![Screenshot 2024-10-15 at 4 48 00 PM](https://github.com/user-attachments/assets/d66fdef2-6498-4d42-8cc1-af075f5e1b23)
