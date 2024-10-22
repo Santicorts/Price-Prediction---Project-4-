@@ -40,6 +40,9 @@
 - Hyperparameter tuning
 - Adding dropout layers to prevent overfitting
 - Experimenting with different architectures and optimization techniques
+
+## Tableau
+This project provides a comprehensive analysis of real estate pricing trends, visualized through Tableau. The dashboard explores factors such as house size, lot size, and location, offering interactive insights into the real estate market. [View the Tableau dashboard here](https://public.tableau.com/app/profile/janhavi.bharati/viz/Project4_17290938313380/Dashboard1)
   
 ## Summary
 Our model predicts housing prices in Illinois with an accuracy of 77%. Further improvements can be made by refining features, exploring different models, and continuing to optimize hyperparameters.
